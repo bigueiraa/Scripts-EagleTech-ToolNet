@@ -1,5 +1,5 @@
 # URL do seu arquivo BAT (Confirme se comeca com raw.githubusercontent.com)
-$batUrl = "bit.ly/eagle-toolnetcmd"
+$batUrl = "https://raw.githubusercontent.com/bigueiraa/Scripts-EagleTech-ToolNet/refs/heads/main/launcher.ps1"
 $batPath = "$env:TEMP\EagleTech_ToolNet.bat"
 
 Write-Host "Iniciando Eagle Tech ToolNet..." -ForegroundColor Cyan
