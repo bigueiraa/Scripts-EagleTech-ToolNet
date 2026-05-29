@@ -2,8 +2,8 @@
 Arquivo .bat para testes de conexão.
 
 *COMO USAR*
-Baixe o arquivo em .zip
-Use o winrar para extrair na pasta de download.
+
+Baixe o arquivo
 Execute o arquivo EagleTech_ToolNet.bat como Administrador
 Vai abrir uma tela no CMD com os comandos de teste de conexão.
 
